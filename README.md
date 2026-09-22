@@ -1,6 +1,8 @@
-# Plateforme intégrée de gestion et de suivi des barrages — ABHL
+﻿# Plateforme intégrée de gestion et de suivi des barrages — ABHL
 
-**Application web métier développée dans le cadre d’un stage au sein de l’Agence du Bassin Hydraulique du Loukkos (ABHL).**
+**Plateforme web métier dédiée à la centralisation, à l’analyse et au suivi des données hydrauliques des barrages.**
+
+Ce projet présente une architecture complète combinant une interface React, une API FastAPI, une base PostgreSQL, des modules de calcul hydraulique, des fonctions d’import et d’export ainsi qu’un assistant intelligent d’interrogation des données.
 
 Cette plateforme a été conçue pour centraliser le suivi hydraulique des barrages, structurer les données métier, fiabiliser les calculs, faciliter l’analyse, automatiser certaines restitutions et intégrer des fonctionnalités avancées de recherche et d’interrogation des données.
 
